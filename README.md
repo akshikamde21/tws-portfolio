@@ -1,1 +1,1 @@
-# demo-actions-project by john
+# demo-actions-project
